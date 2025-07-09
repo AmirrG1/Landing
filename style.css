@@ -472,13 +472,14 @@ html, body {
 }
 
 .prime-container {
-  max-width: 1200px;
+  max-width: 95%;
   margin: auto;
   display: flex;
   flex-wrap: wrap;
   gap: 2rem;
   align-items: flex-start;
 }
+
 
 .prime-text {
   flex: 1;
