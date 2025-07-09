@@ -410,9 +410,10 @@ html, body {
 }
 
 .leisure-container {
-  max-width: 1200px;
+  max-width: 95%;
   margin: auto;
 }
+
 
 .leisure-container h2 {
   font-size: 2.5rem;
