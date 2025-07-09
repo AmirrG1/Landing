@@ -524,6 +524,7 @@ html, body {
 
 .prime-map {
   flex: 1;
+  width: 100%;
   min-width: 300px;
   border-radius: 12px;
   overflow: hidden;
